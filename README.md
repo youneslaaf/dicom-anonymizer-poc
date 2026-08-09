@@ -27,5 +27,5 @@ Das Projekt demonstriert Kenntnisse in:
 
 1. **Repository klonen:**
    ```bash
-   git clone [https://github.com/DEIN_NAME/dicom-anonymizer-poc.git](https://github.com/DEIN_NAME/dicom-anonymizer-poc.git)
+   git clone https://github.com/youneslaaf/dicom-anonymizer-poc.git
    cd dicom-anonymizer-poc
